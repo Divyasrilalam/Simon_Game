@@ -5,4 +5,4 @@ The game starts with a simple sequence, usually played by the device, where one 
 
 The objective of the Simon game is to repeat the longest sequence correctly, earning points for each successful repetition. However, if the player makes a mistake and presses the wrong button or misses a button in the sequence, the game ends, and the player's score is displayed.
 
-[[Demo link](https://divyasrilalam.github.io/Simon_Game/)https://divyasrilalam.github.io/Simon_Game/]
+[Demo link](https://divyasrilalam.github.io/Simon_Game/)
